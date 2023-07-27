@@ -1,2 +1,2 @@
-const baseURL="http://localhost:8080";
+const baseURL="https://course-craft.vercel.app/";
 export default baseURL;
